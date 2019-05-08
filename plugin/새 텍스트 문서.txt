@@ -1,5 +1,0 @@
-Term (자동완성기능)
-
-quantomdb ()
-
-exerd ()
